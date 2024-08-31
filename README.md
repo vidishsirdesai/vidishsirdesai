@@ -5,3 +5,6 @@ I am Data Science and Machine Learning enthusiast. I am passionate about leverag
 This space along with me is a WIP. 
 
 Enjoy 😊
+
+# Blog
+https://medium.com/@sirdesaividish
