@@ -1,16 +1,6 @@
 # Hi there, I'm Vidish 👋
 
-I'm a Data Science and Machine Learning enthusiast. I'm passionate about leveraging data into building solutions that solve a real world problem.
-
-This space along with me is a WIP. 
-
-Enjoy 😊
-
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidish-sirdesai/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sirdesaividish)
-
-# Tech Stack:
+### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
