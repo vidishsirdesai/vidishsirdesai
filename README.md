@@ -1,6 +1,13 @@
-# Hi there and Welcome 👋
+# Hi there! Welcome to my GitHub Page
+I'm Vidish. I'm passionate about leveraging data into solving real world problems.
 
-# Tech Stack
+A fun fact: People are more likely to tell a lie on a Wednesday. But lying is bad, isn't it? Is it really though? You see, most of the questions around us can simply be diluted as questions about probability. For example, what is the probability of a person lying on a certain day? What is the probability that the lie told would hurt someone, or not hurt someone.
+
+This, I find to be a thing of beauty. For, the enlightened individual had learned to ask not "Is it so?", but rather, "What is the probability that it is so?".
+
+At this point you'd ask yourself, "What the hell is he on about?"😂
+
+# Apart form all of the stuff above, I also know,
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
