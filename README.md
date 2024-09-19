@@ -1,9 +1,11 @@
 # Hi there! Welcome to my GitHub Page
 I'm Vidish. I'm passionate about leveraging data into solving real world problems.
 
-A fun fact: People are more likely to tell a lie on a Wednesday. But lying is bad, isn't it? Is it really though? You see, most of the questions around us can simply be diluted as questions about probability. For example, what is the probability of a person lying on a certain day? What is the probability that the lie told would hurt someone, or not hurt someone.
+A fun fact: People are more likely to tell a lie on a Wednesday. 
 
-This, I find to be a thing of beauty. For, the enlightened individual had learned to ask not "Is it so?", but rather, "What is the probability that it is so?".
+But lying is bad, isn't it? Is it really though? You see, most of the questions around us can simply be diluted as questions of probability. For example, what is the probability of a person lying on a certain day? What is the probability that the lie told would hurt someone, or not hurt someone?
+
+This, I find to be a thing of beauty, not the lying part, but the part about probability. For, the enlightened individual had learned to ask not "Is it so?", but rather, "What is the probability that it is so?".
 
 At this point you'd ask yourself, "What the hell is he on about?"😂
 
@@ -35,3 +37,5 @@ At this point you'd ask yourself, "What the hell is he on about?"😂
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+
+# Have a good day! And do check out my repositories, they are, indeed, for you. Hope you find them useful in some way 😊.
