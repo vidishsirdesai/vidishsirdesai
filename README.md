@@ -1,4 +1,4 @@
-# Hi there! Welcome to my GitHub Page
+## Hi there! Welcome to my GitHub Page
 I'm Vidish. I'm passionate about leveraging data into solving real world problems.
 
 A fun fact: People are more likely to tell a lie on a Wednesday. 
@@ -9,7 +9,7 @@ This, I find to be a thing of beauty, not the lying part, but the part about pro
 
 At this point you'd ask yourself, "What the hell is he on about?"😂
 
-# Apart form all of the stuff above, I also know,
+## Apart form all of the stuff above, I also know,
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -38,4 +38,4 @@ At this point you'd ask yourself, "What the hell is he on about?"😂
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
-# Have a good day! And do check out my repositories, they are, indeed, for you. Hope you find them useful in some way 😊.
+## Have a good day! And do check out my repositories, they are, indeed, for you. Hope you find them useful in some way 😊.
